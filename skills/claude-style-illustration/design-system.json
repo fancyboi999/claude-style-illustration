@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "roles": {
+    "ink": "#141413",
+    "counterform": "#FAF9F5",
+    "neutral_card": "#F0EEE6"
+  },
+  "claude_observed": {
+    "heather": {"hex": "#CBCADB", "character": "cool lavender gray", "use": ["collaboration", "reflection", "knowledge"]},
+    "cactus": {"hex": "#BCD1CA", "character": "pale botanical gray-green", "use": ["learning", "care", "growth"]},
+    "sky": {"hex": "#6A9BCC", "character": "muted medium blue", "use": ["partnership", "systems", "clarity"]},
+    "peach": {"hex": "#EBC9B7", "character": "soft warm peach", "use": ["memory", "people", "communication"]},
+    "clay": {"hex": "#D97757", "character": "warm terracotta", "use": ["product", "action", "announcement"]},
+    "olive": {"hex": "#788C5D", "character": "earthy muted olive", "use": ["knowledge", "teams", "continuity"]},
+    "plum": {"hex": "#827DBD", "character": "soft technical violet", "use": ["software", "process", "abstraction"]},
+    "mineral": {"hex": "#629987", "character": "muted mineral green", "use": ["coordination", "platform", "operations"]}
+  },
+  "morandi_extensions": {
+    "dusty_lilac": {"hex": "#B8B2C8", "character": "powdered lilac gray", "use": ["reflection", "imagination", "gentle tension"]},
+    "sage_fog": {"hex": "#A8B3A5", "character": "quiet sage gray", "use": ["care", "stability", "slow growth"]},
+    "mineral_blue": {"hex": "#879BAE", "character": "weathered blue-gray", "use": ["research", "trust", "technical calm"]},
+    "smoked_rose": {"hex": "#C6A6A1", "character": "muted rose taupe", "use": ["human connection", "memory", "care"]},
+    "mushroom": {"hex": "#B5A99D", "character": "warm mushroom taupe", "use": ["archives", "craft", "quiet authority"]},
+    "ochre_ash": {"hex": "#C1AA78", "character": "soft ochre gray", "use": ["ideas", "curiosity", "optimism"]}
+  },
+  "pantone_informed": {
+    "cloud_dancer_2026": {"pantone_reference": "PANTONE 11-4201 TCX Cloud Dancer", "screen_adaptation": "#F3F1EA", "official_hex": false, "use": ["quiet base", "negative space", "clarity"]},
+    "mocha_mousse_2025": {"pantone_reference": "PANTONE 17-1230 TCX Mocha Mousse", "screen_adaptation": "#A99284", "official_hex": false, "use": ["grounding", "comfort", "material warmth"]},
+    "peach_fuzz_2024": {"pantone_reference": "PANTONE 13-1023 TCX Peach Fuzz", "screen_adaptation": "#E6BFA8", "official_hex": false, "use": ["care", "approachability", "soft energy"]}
+  }
+}
